@@ -16,6 +16,7 @@ const StyledHeader = styled.header`
     background-color: #eab7b7;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     
 `
 
